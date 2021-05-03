@@ -3,8 +3,7 @@ PyPOPMusic
 What is it?
 -----
 PyPOPMusic is a simple Python wrapper around the POPMusic TSP solver implemented in [LKH 2.0.9](http://webhotel4.ruc.dk/~keld/research/LKH/).
-
-The code is distributed for academic and non-commercial use. 
+**The code is distributed for academic and non-commercial use. **
 
 <p align="center">
 	<img src="tsp272.png" alt="example plot"/>
